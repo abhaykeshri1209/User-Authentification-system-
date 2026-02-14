@@ -32,6 +32,8 @@ HTTP Client: Axios
 
 
 
+
+
 ✨ Features
 
 🔐 Secure User Registration
@@ -47,6 +49,9 @@ HTTP Client: Axios
 📦 REST API Architecture
 
 🧾 Token stored in LocalStorage
+
+
+
 
 
 
@@ -67,6 +72,9 @@ Middleware verifies token before granting access.
 
 
 
+
+
+
 🌍 Future Improvements
 
 Add Refresh Tokens
@@ -79,10 +87,16 @@ Deploy to Render / Vercel / Railway
 
 Add Role-Based Authentication
 
+
+
+
+
 🤝 Contributing
 
 Contributions are welcome!
 Feel free to fork this repository and submit pull requests.
+
+
 
 
 👨‍💻 Author
